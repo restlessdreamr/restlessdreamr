@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @restlessdreamr
+- 👀 I’m interested in automating my work
+- 🌱 I’m currently learning how to do the above!
