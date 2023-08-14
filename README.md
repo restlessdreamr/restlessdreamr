@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @restlessdreamr
-- 👀 I’m interested in automating my work
-- 🌱 I’m currently learning how to do the above!
+- 👀 I prototype and build games
+- 🌱 I’m currently focusing on blueprint and C++ 
